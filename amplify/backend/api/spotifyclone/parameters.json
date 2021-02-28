@@ -1,0 +1,6 @@
+{
+    "AppSyncApiName": "spotifyclone",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "CreateAPIKey": 1
+}
